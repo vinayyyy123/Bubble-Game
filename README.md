@@ -17,7 +17,7 @@ This project demonstrates:
 - Bootstrap
 
 ## 📂 Project Structure
-- Controllers – Game logic & routing
+- Controllers – routing
 - Models – Game data structures
 - Views – UI (Razor Pages)
 - wwwroot – Static assets (CSS, JS)
